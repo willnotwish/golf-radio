@@ -47,7 +47,7 @@ The amp is made by Blaupunkt. I could not find a circuit diagram online.
 
 I can see that the central signal connector from coaxial input goes through some filtering to what looks like a DC power rail.
 
-![alt text](file:///Users/nick/dev/electronics/car-radio/am-amp-overview.png)
+![FM + AM amp](https://github.com/willnotwish/golf-radio/blob/main/am-amp-overview.png)
 
 ### Back at the car: a broken pipe and damaged cables
 
