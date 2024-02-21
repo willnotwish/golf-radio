@@ -79,7 +79,7 @@ The final cables passing through the rubber boot to the tailgate are faulty. I t
 
 ### Cable replacement
 
-The connectors are called Fakra, made by Amphenol, among others. Fachkreis Automobil auf Deutsch. The off white (they call it "curry yellow") and the white version are not interconnectable. They each contain a lug in a different position. I imagine the tooling is expensive.
+The connectors are called Fakra, made by Amphenol, among others. Fachkreis Automobil auf Deutsch ("expert circle"). The off white (they call it "curry yellow") and the white version are not interconnectable. They each contain a lug in a different position. I imagine the tooling is expensive.
 
 Farnell, among others, [sell Fakra](https://uk.farnell.com/c/connectors/rf-coaxial-connectors-accessories/rf-connectors?connector-type=fakra-coaxial) but the version in my car seems to be Tyco. Mouser have a larger selection, and they sell made up cables, but they cost about over £25 each. Not worth it, I'd say.
 
